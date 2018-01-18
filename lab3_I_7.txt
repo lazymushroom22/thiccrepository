@@ -1,0 +1,9 @@
+while True:
+
+  number=int(input('Input an integer between 0 and 90: '))
+
+  if number>=0 and number<=90:
+   
+  	break
+
+print('The number you have chosen is', number)

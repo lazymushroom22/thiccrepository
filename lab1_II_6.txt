@@ -1,0 +1,7 @@
+n=int(input('Enter amount of elements '))
+
+print('The numbers and their squares are: ')
+
+for x in range ( 1, n+1):
+  
+	print(x,x**2)
