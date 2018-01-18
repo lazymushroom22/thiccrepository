@@ -1,0 +1,5 @@
+nume=input('Enter your name: ')
+
+print(nume.lower())
+
+print(nume.upper())
