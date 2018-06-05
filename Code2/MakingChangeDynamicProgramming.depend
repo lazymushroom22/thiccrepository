@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1528230032 source:c:\users\andrei\desktop\something\makingchangedynamicprogramming\test.c
+	<stdlib.h>
+	"dynamicfunctions.h"
+
+1528229953 c:\users\andrei\desktop\something\makingchangedynamicprogramming\dynamicfunctions.h
+
+1528230154 source:c:\users\andrei\desktop\something\makingchangedynamicprogramming\dynamicfunctions.c
+	<stdlib.h>
+	"dynamicfunctions.h"
+
