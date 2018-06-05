@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1528223607 source:c:\users\andrei\desktop\something\makingchangegreedy\greedyfunctions.c
+	<stdio.h>
+	"greedyfunctions.h"
+
+1528221659 c:\users\andrei\desktop\something\makingchangegreedy\greedyfunctions.h
+
+1528223088 source:c:\users\andrei\desktop\something\makingchangegreedy\testgreedy.c
+	<stdio.h>
+	"greedyfunctions.h"
+
